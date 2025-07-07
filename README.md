@@ -1,4 +1,4 @@
 # prog2 - Los Magios
-Yery Torrico Ribera 
-Limber David Quispe Osco 
-Salomon Leon Pesoa 
+                    Yery Torrico Ribera 
+                    Limber David Quispe Osco 
+                    Salomon Leon Pesoa 
