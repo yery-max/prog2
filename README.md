@@ -2,3 +2,4 @@
                     Yery Torrico Ribera 
                     Limber David Quispe Osco 
                     Salomon Leon Pesoa 
+                    Carlos Eduardo Cabello 
