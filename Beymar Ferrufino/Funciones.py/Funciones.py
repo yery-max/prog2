@@ -21,5 +21,5 @@ assert sumar(-4, 4) == 0, "Error: -4 + 4 debe ser 0"
 print("✅ Todas las pruebas unitarias pasaron correctamente.\n")
 
 # ===== Llamadas a las funciones =====
-print(saludar("Luis"))
+print(saludar("Beymar"))
 print(f"La suma de 7 y 8 es: {sumar(7, 8)}")
