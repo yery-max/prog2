@@ -17,7 +17,7 @@ assert busqueda_lineal(mi_lista_desordenada, 99) == -1  # No existe
 assert busqueda_lineal([], 5) == -1  # Lista vacía
 
 print("¡Pruebas para busqueda_lineal pasaron! ✅")
-print("JIMMY REQUENA - FIN DEL PROGRAMA")
+print("Limber Quispe - FIN DEL PROGRAMA")
 
 # clase06_busquedas.py (continuación)
 # 2. Definir la función busqueda_binaria
