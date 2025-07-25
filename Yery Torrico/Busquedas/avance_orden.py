@@ -56,4 +56,4 @@ assert merge_sort([100, -50, 0, 50, -100]) == [-100, -50, 0, 50, 100]  # Lista c
 assert merge_sort([2.5, 1.2, 3.8]) == [1.2, 2.5, 3.8]  # Lista con flotantes
 print("¡Todas las pruebas con assert pasaron correctamente!")
 
-print("JIM REQUENA - FIN DEL PROGRAMA")
+print("YERY TORRICO - FIN DEL PROGRAMA")
