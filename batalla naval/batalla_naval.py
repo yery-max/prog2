@@ -107,4 +107,4 @@ def juego():
 
 # Ejecutar el juego
 juego()
-print("daniel Alanes Caceres- geme over")
+print("Limber Quispe- geme over")
